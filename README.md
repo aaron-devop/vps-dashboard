@@ -45,4 +45,4 @@ The dashboard displays:
 * **System Info:** Hostname, Kernel, Uptime.
 
 ## 📜 LICENSE
-MIT License
+ GPL-3.0 license
